@@ -3,3 +3,4 @@
 # Ina Lazarevska, 151112
 
   # Control Flow Graph
+![](/master/SI_lab2.drawio.png)
